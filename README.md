@@ -1,5 +1,5 @@
 # OTT-Merged-Platform-Analysis
-Resume project challenge conducted by Codebasics-[Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+Resume project challenge conducted by Codebasics-[Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge).
 This repository contains resources for analyzing and optimizing the performance of OTTs Lio Cinema and Jotstar so they can emerge as the top OTT platform
 📊 Dashboards showcasing visual insights.
 📑 Presentations with actionable recommendations for operational improvements.
