@@ -8,3 +8,21 @@ Lio, a leading telecommunications provider in India, is planning a strategic mer
 
 # Dashboard
 ![ezgif com-optimize](https://github.com/user-attachments/assets/57ae2d35-7fa1-4eb8-9e4f-66efc0c82d70)
+
+# Tech Stack
+SQL
+Power Bi
+
+# Questiones Answered (KPIs)
+* Total Users & Growth Trends
+* Content Library Comparison
+* User demographics
+* Inactive vs Active users
+* Watch time analysis
+* Inactivity correlation
+* Downgrade trends
+* Upgrade trends
+* Paid user distribution
+* Revenue Analysis
+
+# Insights
