@@ -13,7 +13,7 @@ Lio, a leading telecommunications provider in India, is planning a strategic mer
 # Tech Stack
 SQL, Power Bi
 
-# Questiones Answered (KPIs)
+# Questions Answered (KPIs)
 * Total Users & Growth Trends
 * Content Library Comparison
 * User demographics
@@ -55,4 +55,8 @@ has a significant share of VIP subscribers.
 * Partner with telecom companies to **preinstall the app** on smartphones, increasing visibility. Offer **free trials or discounts** as part of telecom reward programs to attract new users.
 * Integrate machine learning algorithms to analyze user preferences and provide personalized content recommendations. Utilize AI-driven ratings based on user feedback to enhance content discovery and help other users find highly-rated shows and movies.
 * Leverage celebrities who have transitioned careers to represent a diverse audience and build brand identity. Figures like MS Dhoni, Virat Kohli, and Deepika Padukone bring credibility, wide reach, and strong digital presence, making them ideal for marketing campaigns.
+
+# Links
+[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://www.datascienceportfol.io/ishaaabdul23)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
 
