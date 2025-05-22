@@ -57,6 +57,6 @@ has a significant share of VIP subscribers.
 * Leverage celebrities who have transitioned careers to represent a diverse audience and build brand identity. Figures like MS Dhoni, Virat Kohli, and Deepika Padukone bring credibility, wide reach, and strong digital presence, making them ideal for marketing campaigns.
 
 # Links
-[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://www.datascienceportfol.io/ishaaabdul23)
+[![Portfolio]([https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://www.datascienceportfol.io/ishaaabdul23](https://ishaa-23.github.io/))
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
 
