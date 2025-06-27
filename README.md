@@ -8,7 +8,12 @@ This repository contains resources for analyzing and optimizing the performance 
 Lio, a leading telecommunications provider in India, is planning a strategic merger with Jotstar, one of the country’s most prominent streaming platforms. This potential partnership aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library to revolutionize digital streaming in India. As part of the merger preparation, the management team at Lio wants to analyse the performance and user behavior of both platforms—LioCinema and Jotstar—over the past one year (January to November 2024). The goal is to gain insights into individual platform performance, content consumption patterns, subscriber growth, Inactivity behavior, upgrade and downgrade trends. The insights derived from this study will help the management make informed decisions and optimize content strategies post-merger, with the ultimate goal of establishing Lio-Jotstar as the leading OTT platform in India.  Peter Pandey is the data analyst at Lio, and he is tasked to analyse the data and provide insights.  
 
 # Dashboard
-![ezgif com-optimize](https://github.com/user-attachments/assets/57ae2d35-7fa1-4eb8-9e4f-66efc0c82d70)
+![Screenshot 2025-06-27 172943](https://github.com/user-attachments/assets/8817abf3-bca0-4e5f-aa01-41732c45e105)
+![Screenshot 2025-06-27 172952](https://github.com/user-attachments/assets/efa931e7-73c2-431e-9136-2b627e805e45)
+![Screenshot 2025-06-27 172959](https://github.com/user-attachments/assets/b61a6ddb-7ca6-49fb-8fa3-4da64fc82e10)
+![Screenshot 2025-06-27 173006](https://github.com/user-attachments/assets/eede93c1-fa0b-47d4-b9b7-3a031093d43d)
+![Screenshot 2025-06-27 173013](https://github.com/user-attachments/assets/6a432fa1-9711-4984-823f-40e2f42ae408)
+![Screenshot 2025-06-27 173021](https://github.com/user-attachments/assets/fa36f60d-3387-41c5-90e9-f348025a5c2c)
 
 # Tech Stack
 SQL, Power Bi
